@@ -82,7 +82,7 @@ body{
 .boss{
     width: 150px;
     height: 150px;
-    background-image: url(images/starcraft_PNG11.png);
+    background-image: url(./images/starcraft_PNG11.png);
     background-size: contain;
     transform: scaleX(-1);
     border-radius: 50%;
